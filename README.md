@@ -14,7 +14,7 @@ Install the add-on at Firefox's add-ons website (https://addons.mozilla.org/en-C
 
 ### Troubleshooting
 
-If the theme is removed upon restarting Firefox, ensure that all themes and related add-ons (e.g. Firefox Color) are disabled.
+If the theme does not show, or is removed upon restarting Firefox, ensure that all themes and theme related add-ons (e.g. Firefox Color) are disabled.
 
 
 ## Development
