@@ -7,6 +7,8 @@ A minimal dark theme with animated color-changing highlights. Created for Firefo
 
 ![theme-demo](https://github.com/jennifer-lu/Animated-Colors-Extra-Dark/blob/master/demo.gif)
 
+![theme-demo](https://github.com/jennifer-lu/Animated-Colors-Extra-Dark/blob/master/demo_zoom.gif)
+
 
 ## Installation
 
